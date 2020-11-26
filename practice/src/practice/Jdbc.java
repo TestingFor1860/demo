@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
-
+// Hello ji
 public class Jdbc {
 	public static void main(String args[]) throws SQLException 
 	{
